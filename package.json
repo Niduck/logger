@@ -1,0 +1,22 @@
+{
+  "name": "logger",
+  "version": "1.0.0",
+  "description": "A simple logger with visible snacks for the web.",
+  "main": "logger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Niduck/logger.git"
+  },
+  "author": "Niduck",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Niduck/logger/issues"
+  },
+  "homepage": "https://github.com/Niduck/logger#readme"
+}
