@@ -1,6 +1,6 @@
 {
   "name": "@niduck/logger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple logger with visible snacks for the web.",
   "main": "logger.js",
   "type": "module",
